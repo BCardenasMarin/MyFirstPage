@@ -1,3 +1,2 @@
-# My first site
-***
+# My first website
 Hello world
